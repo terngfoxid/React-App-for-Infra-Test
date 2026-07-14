@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    AWS_REGION: ap-southeast-7
+    AWS_REGION: ap-southeast-1
     IMAGE_REPO_NAME: react-app-aws-test
 
 phases:
